@@ -14,7 +14,10 @@
   margin-bottom: 30px;
   position: relative;
 }
-
+.introducao img {
+  width: 100%;
+  border-radius: 5px;
+}
 .introducao h1::before {
   content: "";
   display: block;
